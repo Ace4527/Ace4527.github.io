@@ -22,7 +22,7 @@ The Little Wizard's Prison Escape project was produced by a small team, of which
   
 This project was exciting to work on as it is my first cross platform game for Playstation and Windows, the opportunity to work with Playstation was a great experience.  
   
-[Download the game](/assets/downloads/The_Little_Wizard's_Prison_Escape.zip) and try it.  
+[Download the game](https://drive.google.com/file/d/13OMbXVnps7QuEbjBbX1k3kzKuC1fbEro/view?usp=sharing) and try it.  
   
 ---
   
