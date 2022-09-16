@@ -17,6 +17,6 @@ Tools:
 * Source Control (Github)
 
 Education:
-* Bachelor of Software Engineering (Game Programming) - Torrens University, due for completion mid-late 2022.
+* Bachelor of Software Engineering (Game Programming) - Torrens University, 2022.
 
 Please contact me through [Linkedin](https://www.linkedin.com/in/nathan-tucker-3613a4227/){:target="_blank"} for a full copy of my resume.  
