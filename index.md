@@ -5,7 +5,7 @@ description: Nathan Tucker
 ---
 My name is Nathan. I am an aspiring game programmer, proficient in C++ and Unity Engine.  
 
-I have just finished my Bachelors degree in Software Engineering (Game Programming) at Torrens University.
+I have just finished my Bachelors degree in Software Engineering (Game Programming) at Torrens University Australia.
    
 Some of my favourite games include Civilization V and VI, Dungeons and Dragons Online, the Mass Effect Trilogy, Horizon Zero Dawn, and Life Is Strange.  
   
