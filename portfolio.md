@@ -16,6 +16,8 @@ It was interesting to explore the voice controlled aspect of the game and the ch
 
 [Download Unsighted Agent](https://drive.google.com/file/d/1Mtt5sxJ5Ogq0Zj1mK3LdLV6F_1Snb0fm/view?usp=sharing) and try it.
 
+---
+
 # Bee Survival  
 ![Bee Survival Game](https://img.itch.zone/aW1hZ2UvMTE2NTQyNC82NzgwOTgzLnBuZw==/original/hry7vK.png "Bee Survival"){:class="img-responsive"}  
 I served as the programmer on the Bee Survival project, and was responsible for most of the game code. I also was part of the team responsible for designing the gameplay and mechanics.  
