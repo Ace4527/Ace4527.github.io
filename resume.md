@@ -9,7 +9,7 @@ Programming languages:
 * C# -------------- Competent
 * Lua -------------- Basic
 * SQL and XML --- Basic
-* Python -------- Basic
+* Python ----------- Basic
 * HTML and CSS -- Basic
 
 Tools:
