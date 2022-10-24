@@ -5,9 +5,9 @@ description: Nathan Tucker
 ---
 
 Programming languages:  
-* C++ ----------- Competent
-* C# ------------ Competent
-* Lua ----------- Basic
+* C++ ------------ Competent
+* C# -------------- Competent
+* Lua -------------- Basic
 * SQL and XML --- Basic
 * Python -------- Basic
 * HTML and CSS -- Basic
