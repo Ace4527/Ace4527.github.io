@@ -5,12 +5,14 @@ description: Nathan Tucker
 ---
 
 Programming languages:  
-* C++ ------------ Competent
-* C# -------------- Competent
-* Lua -------------- Basic
-* SQL and XML --- Basic
-* Python ---------- Basic
-* HTML and CSS -- Basic
+* C++ - Competent
+* C# - Competent
+* Lua - Basic
+* SQL - Basic 
+* XML - Basic
+* Python - Basic
+* HTML - Basic
+* CSS - Basic
 
 Tools:
 * Unity Engine
