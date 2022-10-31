@@ -8,7 +8,7 @@ description: Nathan Tucker
 ![Unsighted Agent Game](/assets/images/Unsighted_Agent_Warehouse.PNG "Unsighted Agent"){:class="img-responsive}
 Unsighted Agent is a single-player, coop game where you are one of the characters and control your robot agent through voice commands.
 
-Unsighted Agent was developed by a small team of artists and programmers. I served in the role of lead programmer, and was respsonsible implenting the speech to text for voice commands and the character controller as well as the voice-controlled mini-game amoung other things.
+Unsighted Agent was developed by a small team of artists and programmers. I served in the role of lead programmer, and my primary respsonsibilities included implenting the speech to text for voice commands, the character controller and camera rig, as well as the voice-controlled mini-game.
 
 The team had the freedom to design and create any game that we wanted for this project. I was intrigued by the concept of using voice controls in a game and pitched the idea to the team, and as they say, the rest is history.
 
