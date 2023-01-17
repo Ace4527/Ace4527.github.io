@@ -6,7 +6,7 @@ description: Nathan Tucker
 
 # Unsighted Agent
 ![Unsighted Agent Game](/assets/images/Unsighted_Agent_Warehouse.PNG "Unsighted Agent"){:class="img-responsive}
-Unsighted Agent is a single-player stealth and stealing game. You play as the 'man-in-the-van' coordinating a heist, however you boots on the ground is a robot that you control through voice commands.
+Unsighted Agent is a single-player stealth and stealing game. You play as the 'man-in-the-van' coordinating a heist, however your boots on the ground is a robot that you control through voice commands.
 
 Unsighted Agent was developed by a small team of artists and programmers. I served in the role of lead programmer, and my primary respsonsibilities included implenting the speech-to-text for voice commands, the character controller and camera rig, as well as a voice-controlled mini-game.
 
@@ -14,8 +14,9 @@ In team discussion while prototyping ideas, the concept of the integration of th
 
 It was fun and interesting to explore the options for real-time voice control in a game environment, the importance of speech-to-text accuracy, reliability and speed all needed to be considered. 
 
-We explored numerous speech-to-text engines available, and switched the one the game operated on three times during development as we further explored the available options and their limitations and trade offs. 
-From the native Unity Speech-to-text with its quick and easy setup but low accuracy and reliability as well as limited access to the knobs and dials (such as swapping the input mic), through online cloud based subscription services like IBM Watson STT services and Microsoft Cognitive Speech Serives with their higher accuracy but inconsistent response time and limits on usage.
+We explored numerous speech-to-text engines available, and switched the one the game operated on three times during development as we further explored the available options and their limitations and trade offs.
+Starting with the native Unity STT implementation with its quick and easy setup but with low accuracy and limit access to advanced features(like input mic control). 
+To cloud based subscription solutions such as IBM Watson STT services and Microsoft Cognitive Speech serivces that feature high accuracy but low reliability with inconsitent response times and usage limits. 
 Eventually moving on to a Unity implementation of VOSK offline Speech Recognition API, while marginally less accurate than the cloud based alternatives, it provided consistent response times, offline access, and an easy ability to swap languages or models for the STT if desired (not that the game supports languages other than English).
 
 [Download Unsighted Agent](https://drive.google.com/file/d/1Mtt5sxJ5Ogq0Zj1mK3LdLV6F_1Snb0fm/view?usp=sharing) and give it a try.
@@ -26,7 +27,7 @@ Eventually moving on to a Unity implementation of VOSK offline Speech Recognitio
 ![Bee Survival Game](https://img.itch.zone/aW1hZ2UvMTE2NTQyNC82NzgwOTgzLnBuZw==/original/hry7vK.png "Bee Survival"){:class="img-responsive"}  
 I served as the lead programmer on the Bee Survival game, and was responsible for most of the game code from movement and interaction to the enemy AI. I also collaborated with the design team to come up with the gameplay and mechanics.  
   
-We were given theme of 'Be Good' and set loose to prototype and create a game. The Bee theme was a play on the assigned theme as well as bringing attention the very real issues facing bees in the modern world.
+We were given theme of 'Be Good' and set loose to prototype and create a game. The Bee theme was a play on the assigned theme as well as to bring attention the very real issues facing bees in the modern world.
 
 The bee theme also resonated with me on a personal level as my Grandfather kept bees, and my dad is also a hobbyist beekeeper. I drew inspiration from the relevance of the theme in my personal life and the world at large when collaborating with the team on the mechanics and design
   
