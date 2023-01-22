@@ -18,7 +18,7 @@ Tools:
 * Unity Engine
 * Unreal Engine Blueprints
 * Visual Studio
-* Source Control (Github)
+* Source Control (Github Desktop)
 
 Education:
 * Bachelor of Software Engineering (Game Programming) - Torrens University, 2022.
