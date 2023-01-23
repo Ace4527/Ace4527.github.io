@@ -6,17 +6,16 @@ description: Nathan Tucker
 
 Programming languages:  
 * C# - Competent
-* C++ - Competent 
-* XML - Beginner
+* Unreal Blueprints - Intermediate
+* XML - Intermediate
+* C++ - Intermediate 
 * Lua - Beginner
 * SQL - Beginner
 * Python - Beginner
-* HTML - Beginner
-* CSS - Beginner
 
 Tools:
 * Unity Engine
-* Unreal Engine Blueprints
+* Unreal Engine
 * Visual Studio
 * Source Control (Github Desktop)
 
