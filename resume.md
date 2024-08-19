@@ -6,9 +6,9 @@ description: Nathan Tucker
 
 Programming languages:  
 * C# - Competent
+* C++ - Competent 
 * Unreal Blueprints - Intermediate
 * XML - Intermediate
-* C++ - Intermediate 
 * Lua - Beginner
 * SQL - Beginner
 * Python - Beginner
