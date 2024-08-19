@@ -17,7 +17,7 @@ It was fun and interesting to explore the options for real-time voice control in
 We explored numerous speech-to-text engines available, and switched the one the game operated on three times during development as we further explored the available options and their limitations and trade offs.
 Starting with the native Unity STT implementation with its quick and easy setup but with low accuracy and limit access to advanced features(like input mic control). 
 To cloud based subscription solutions such as IBM Watson STT services and Microsoft Cognitive Speech serivces that feature high accuracy but low reliability with inconsitent response times and usage limits. 
-Eventually moving on to a Unity implementation of VOSK offline Speech Recognition API, while marginally less accurate than the cloud based alternatives, it provided consistent response times, offline access, and an easy ability to swap languages or models for the STT if desired (not that the game supports languages other than English).
+Eventually moving on to a Unity implementation of VOSK offline Speech Recognition API, while marginally less accurate than the cloud based alternatives, it provided consistent response times, offline access, and an easy ability to swap languages or models for the STT if desired (although the game does not support languages other than English).
 
 [Download Unsighted Agent](https://drive.google.com/file/d/1Mtt5sxJ5Ogq0Zj1mK3LdLV6F_1Snb0fm/view?usp=sharing) and give it a try.
 
